@@ -1,0 +1,2 @@
+Compile boost cpp file.
+g++ first.cpp -o first -lboost_system
